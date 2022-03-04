@@ -1,5 +1,5 @@
 ### Hello, i'm Victor Hugo 👋
-###### <span>I have knowledge in Typescript, JavaScript, CSS, React, NodeJS, Firebase, HTML</span>
+###### <span>I have knowledge in Typescript, JavaScript, CSS, React, NodeJS, Firebase,NextJS, HTML</span>
  <div>
   <a href="https://github.com/viktorhugodev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viktorhugodev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -11,18 +11,16 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
 <img align="center" alt="Typescript" height="30" width="40" src="https://user-images.githubusercontent.com/85125378/156829600-2d888fd5-c2d9-4615-9d93-011b0dbc1d52.svg">
  <img align="center" alt="Node" height="30" width="40" src="https://user-images.githubusercontent.com/85125378/156829997-08398b90-ce63-4af2-b15d-096c1465075c.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://user-images.githubusercontent.com/85125378/156830150-3019a830-58a1-45be-b6a0-1a6db06bf69b.svg">
+<img align="center" alt="Node" height="30" width="40" src="https://user-images.githubusercontent.com/85125378/156831665-dce3f9bb-be91-4cf6-86fc-a44f70bdd50a.svg">
 
 
- 
+
 ##
 
 
-  
-  
  
 <div> 
     <a href="https://instagram.com/viktorcorreia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	
