@@ -1,6 +1,18 @@
+[linkedin]: https://www.linkedin.com/in/viktorhugodev/
+[email]: mailto:viktorhugo.dev@gmail.com
+
 ### Hello, i'm Victor Hugo 👋
-###### <span>I have knowledge in Typescript, JavaScript, CSS, React, NodeJS, Firebase, NextJS, GraphQL</span>
-###### <span>viktorhugo.dev@gmail.com </span>
+##### An expert FrontEnd developer
+#### <span>I have knowledge in Typescript, JavaScript, CSS, React, NodeJS, Firebase, NextJS, GraphQL</span>
+##### Connect with me:
+
+<div>
+ [<img align="left" alt="Victor Hugo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+ [<img align="left" alt="Victor Hugo | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+</div>
+
+
+<br>
  <div>
   <a href="https://github.com/viktorhugodev">
 
