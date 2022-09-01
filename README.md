@@ -1,6 +1,6 @@
 ### Hello, i'm Victor Hugo 👋
 ###### <span>I have knowledge in Typescript, JavaScript, CSS, React, NodeJS, Firebase, NextJS, GraphQL</span>
-###### <span>vikt
+###### <span>viktorhugo.dev@gmail.com </span>
  <div>
   <a href="https://github.com/viktorhugodev">
 
