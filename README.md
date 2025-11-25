@@ -25,7 +25,6 @@ Desenvolvedor Full-Stack com **+5 anos de experiência** especializado em constr
 
 - 🎯 **Especializado em**: Next.js, React, TypeScript, Node.js & Python
 - 🏢 **Experiência em**: IAgente, ETEG, TheMembers, Grupo Arezzo
-- 💼 **Trabalho atual**: Desenvolvedor Full-Stack na **IAgente**
 - 🌱 **Aprendendo**: Clean Architecture, DDD, Microserviços
 - 💬 **Pode me perguntar sobre**: React, Next.js, TypeScript, APIs RESTful, GraphQL
 - ⚡ **Curiosidade**: Apaixonado por resolver problemas complexos com código limpo e testável
@@ -82,8 +81,7 @@ Desenvolvedor Full-Stack com **+5 anos de experiência** especializado em constr
 
 ## 🏆 Destaques
 
-- ✅ **+5 anos** de experiência em desenvolvimento
-- ✅ **90%** de cobertura de testes em projetos críticos
+- ✅ **+6 anos** de experiência em desenvolvimento
 - ✅ **40%** de melhoria em performance de aplicações
 - ✅ **Clean Architecture** e princípios **SOLID**
 - ✅ Experiência com **TDD** e **metodologias ágeis**
@@ -133,7 +131,7 @@ const victorHugo = {
 
 ## 💭 Filosofia de Desenvolvimento
 
-> "Código limpo não é escrito seguindo regras. Você sabe que está criando código limpo quando cada rotina que você lê é praticamente o que você esperava." - Robert C. Martin
+> "Qualquer tolo pode escrever código que um computador entende. Bons programadores escrevem código que humanos entendem." - Martin Fowler
 
 Acredito em:
 - 📝 Código autodocumentado e legível
