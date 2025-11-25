@@ -66,19 +66,6 @@ Desenvolvedor Full-Stack com **+5 anos de experiência** especializado em constr
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viktorhugodev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viktorhugodev&layout=compact&langs_count=8&theme=dracula"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viktorhugodev&theme=dracula" alt="GitHub Streak"/>
-</p>
-
----
-
 ## 🏆 Destaques
 
 - ✅ **+6 anos** de experiência em desenvolvimento
